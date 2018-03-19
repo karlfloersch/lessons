@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "author": "Grand Master Doge",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.7.1",
+    "solidity-sha3": "^0.4.1"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
